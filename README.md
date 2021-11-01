@@ -2,7 +2,7 @@
 
 ## Take a look to the live example at:
 
-
+https://bucheli-web-development-react-course-component-rendering.netlify.app/
 
 * Topics studied in this project:
 * Using of state in class components with constructor(props), super(props), and this.state.
